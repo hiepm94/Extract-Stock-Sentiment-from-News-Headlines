@@ -11,6 +11,9 @@ Các dòng tin tức đều được thu thập realtime từ trang [Finviz](Fin
 Việc phân tích sắc thái được thực hiện bằng cách sử dựng thư viện NLTK/VADER với một số điều chỉnh về từ điển, đưa ra độ đo về 3 sắc thái: tích cự, trung hòa và tiêu cực.
 ## Visualization result
 Ta đưa ra được kết quả phân tích trực quan về tình trạng cổ phiếu của META và GOOGL tại thời gian nghiên cứu:
+
 ![image](https://github.com/hiepm94/Extract-Stock-Sentiment-from-News-Headlines/assets/96098339/147bf5fd-3ad6-4fda-b0b7-28a9ce508510)
+
 Và cả nội dung phân tích cố phiếu công ty META trong một ngày:
+
 ![image](https://github.com/hiepm94/Extract-Stock-Sentiment-from-News-Headlines/assets/96098339/b2ca5734-5226-4542-8f84-19de4cbcb9b2)
