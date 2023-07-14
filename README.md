@@ -1,1 +1,1 @@
-# Extract-Meta---Google-Inc.-Stock-Sentiment-from-News-Headlines
+# Extract Meta & Google Inc. Stock Sentiment from News Headlines
